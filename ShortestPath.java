@@ -1,5 +1,3 @@
-// Kemal Sarp Ozturk S011696 Department of Computer Science
-
 import java.util.Random;
 import java.util.Scanner;
 
